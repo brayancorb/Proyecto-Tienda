@@ -1,0 +1,19 @@
+public class TiendaPamn {
+    
+    /*Se declaran los atributos que reciben el producto */
+    String leche,huevos,refresco,frituras,dulces;
+    
+    /*Se declaran los atributos que reciben la cantidad del producto*/
+    int cantidad1,cantidad2,cantidad3,cantidad4,cantidad5;
+    
+    /*Se declaran los atributos que reciben el precio del producto*/
+    float precio1,precio2,precio3,precio4,precio5;
+    
+    /*Se declaran posibles metodos*/
+    public void recibe_producto(){
+    }
+    public void recibe_cantidad(){}
+    public void calcula_precio(){}
+}
+
+//por ahora esto agregué checalo haber si sirve, sino lo editamos 
